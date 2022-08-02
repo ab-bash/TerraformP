@@ -1,0 +1,9 @@
+variable "cluster-name" {}
+variable "node-group-name" {}
+variable "public-subnet" {}
+variable "instance-type" {}
+#variable "key-pair" {}
+#variable "ami" {}
+variable "node-disk-size" {}
+variable "capacity-type" {}
+variable "vpc-id" {}
